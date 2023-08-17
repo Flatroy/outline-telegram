@@ -31,3 +31,5 @@ Dont forget to set up your bot's webhook. You can use [this get request](https:/
 ## References
 
 [DigitalOcean Functions](https://docs.digitalocean.com/products/functions/)
+
+[DigitalOcean example PHP repo](https://github.com/digitalocean/sample-functions-php-numberstowords)
